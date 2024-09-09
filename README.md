@@ -1,10 +1,8 @@
-# flutter_1
+# Flutter App: C.U-Source
 
-A new Flutter project.
+This is where the code lives for the live C.U web-app. Changes made here must be applied to the github.io repository found here: (https://github.com/Kenneth-Sc/Kenneth-Sc.github.io)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
